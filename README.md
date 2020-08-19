@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a media_converter mobile appication for andorid an ios using flutter.
+The features of this app will be:
+- Change audio formats from one to another.
+- Extract audio in desired format from video.
+- Trim audio.
+- Change thumbnail of audio.
+- Change audio and video encoding.
+ 
+- Technologies used:
+flutter_ffmpeg
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
